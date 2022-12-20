@@ -168,7 +168,6 @@ if __name__ == '__main__':
         time.sleep(5)
         print('第' + str(init) + '次重新打卡，失败名单：' + str(failIndex))
         asyncio.run(telegramMsg(botToken, '第' + str(init) + '次重新打卡'))
-        newFailIndex = []
         newIdDate = []
         for i in failIndex:
             newIdDate.append(idData[i-1])
