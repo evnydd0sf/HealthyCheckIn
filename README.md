@@ -309,5 +309,3 @@ failIndex = check_up(idData) # 引入错误列表
 代码目前已在 GitHub 上开源：https://github.com/evnydd0sf/HealthyCheckIn ，并且与之相关的姓名、账号、密码和机构都进行了脱敏处理。
 
 有任何交流或疑问可以在 Telegram 联系我：https://t.me/evnydd0sf
-
-Peace！
